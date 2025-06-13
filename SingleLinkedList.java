@@ -43,7 +43,7 @@ class SingleLinkedList {
     }
 
     public static void main(String[] args) {
-        sin list = new sin();
+        SingleLinkedList list = new SingleLinkedList();
         list.insertAtBegin(10);
         list.insertAtBegin(20);
         list.insertAtBegin(30);
